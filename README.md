@@ -4,6 +4,7 @@ Final Project for Sogang Univ, 2022_2nd semester, CSE3013
 <br/>
 
 ## maze_project: 제리가 치즈를 찾아 미로를 탈출하는 프로그램
+![maze_animation.png](https://github.com/namkidong98/Maze_project/blob/main/maze_project/maze_animation.png)
 #### 1. phase1을 기반으로, 완전 미로를 랜덤하게 생성하는 기능 탑재
 #### 2. phase2를 기반으로, 윈도우 창에 미로를 출력
 #### 3. phase3을 기반으로, DFS와 BFS를 활용하여 미로의 출구를 탐색
@@ -11,7 +12,7 @@ Final Project for Sogang Univ, 2022_2nd semester, CSE3013
 #### 추가사항2. 미로의 시작점과 출구를 랜덤하게 배치할 수 있는 기능 추가
 #### 추가사항3. DFS, BFS로 그려진 경로에 따라 이동하는 애니메이션 기능 추가
 ![maze_flowchar.png](https://github.com/namkidong98/Maze_project/blob/main/maze_project/maze_flowchart.png)
-![maze_animation.png](https://github.com/namkidong98/Maze_project/blob/main/maze_project/maze_animation.png)
+
 
 <br/>
 
