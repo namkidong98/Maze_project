@@ -4,6 +4,7 @@ Final Project for Sogang Univ, 2022_2nd semester, CSE3013
 <br/>
 
 ## maze_project: 제리가 치즈를 찾아 미로를 탈출하는 프로그램
+![maze_animation](https://github.com/namkidong98/Maze_project/assets/113520117/20a9d197-43d0-4857-b25e-03cf601722d1)
 ![maze_animation.png](https://github.com/namkidong98/Maze_project/blob/main/maze_project/maze_animation.png)
 #### 1. phase1을 기반으로, 완전 미로를 랜덤하게 생성하는 기능 탑재
 #### 2. phase2를 기반으로, 윈도우 창에 미로를 출력
